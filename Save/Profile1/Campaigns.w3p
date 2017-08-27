@@ -1,16 +1,16 @@
 [Campaign]
 Tutorial=-3458764513820540927
-Human=-3458764513820539905
-Undead=576460752303423488
+Human=-1152921504606842881
+Undead=-9223372036854775777
 Orc=576460752303423488
 NightElf=576460752303423488
 PlayerName=stevieray8450
-ShowScreen=1
+ShowScreen=2
 TutorialCleared=1
 Difficulty=1
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=-609278930
+Magic=-406618180
 Magic1=-656783790
 
 [Campaign1]
